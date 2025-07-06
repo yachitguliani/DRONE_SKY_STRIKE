@@ -47,10 +47,7 @@ This repo documents every technical layer — from **CAD modeling** and **compon
 
 ## 🖼️ CAD Preview
 
-> Drone visual with cylindrical payload bay (SolidWorks)  
-> 📍 [CAD Files](./03_MECHANICAL_DESIGN/CAD_PREVIEW)
-
-![Drone Render](./03_MECHANICAL_DESIGN/CAD_PREVIEW/parts_exploded.png)
+> Drone visual with cylindrical payload bay (SolidWorks) 
 
 ---
 
